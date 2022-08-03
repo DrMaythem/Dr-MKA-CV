@@ -15,6 +15,7 @@ html{
 
 .Mobile{
     visibility: hidden;
+    display: none;
 }
 
 .Title{
@@ -163,6 +164,7 @@ li{
     
     .Desktop{
         visibility: hidden;
+        display: none;
     }
 
     .Mobile{
