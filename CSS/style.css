@@ -199,6 +199,12 @@ li{
         gap: 0px;
     }
     
+    div.details:nth-child(2) {
+        margin-top: 0px;
+        padding-top: 0px;
+        color: red;
+      }
+
     .SectionHeader{
         margin-top: 25px;
     }
@@ -216,8 +222,8 @@ li{
     .SMProfile{
         display: flex;
         margin-top: 15px;
-        margin-left: 50px;
-        gap: 50px;
+        margin-left: 30px;
+        gap: 20px;
     }
     
     .SMProfile a{
@@ -228,6 +234,7 @@ li{
     
     .SMProfile a img{
         border-radius: 5px;
+        height: 50px;
     }
     .SMProfile p{
         visibility: hidden;
@@ -261,7 +268,8 @@ li{
         width: 100px;
         height: 50px;
     }
-        .Recognitions p{
+
+    .Recognitions p{
         text-align:center;
     }
     
@@ -291,6 +299,7 @@ li{
     }
     
     .PublicationYear{
+        width: 90%;
         padding-left: 10px;
         font-weight: bold;
         font-size: x-large;
@@ -299,6 +308,7 @@ li{
     }
     
     .Facebook {
+        display: none;
         visibility: hidden;
         width: 300px;
         height: 50px;
@@ -310,6 +320,7 @@ li{
     }
     
     .WhatsApp {
+        display: none;
         visibility: hidden;
         width: 300px;
         height: 50px;
