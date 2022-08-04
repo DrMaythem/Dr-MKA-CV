@@ -199,10 +199,10 @@ li{
         gap: 0px;
     }
     
-    div.details:nth-child(2) {
+    details.OneColumnList p {
         margin-top: 0px;
         padding-top: 0px;
-        color: red;
+        color:green;
       }
 
     .SectionHeader{
@@ -216,7 +216,7 @@ li{
     .PersonalPicture img{
         margin-top: 15px;
         border-radius: 15px;
-        height: 150px;
+        height: 250px;
     }
     
     .SMProfile{
