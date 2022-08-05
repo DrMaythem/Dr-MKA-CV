@@ -209,6 +209,7 @@ li{
         width: 90%;
         padding-left: 5px;
         padding-right: 5px;
+        justify-self: center;
     }
     .SectionHeader{
         margin-top: 25px;
@@ -243,6 +244,7 @@ li{
     }
     .SMProfile p{
         visibility: hidden;
+        display: none;
     }
 
     .SocialMedia {
