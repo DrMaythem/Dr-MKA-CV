@@ -245,9 +245,10 @@ li{
         visibility: hidden;
     }
 
-    .SocialMedia p{
+    .SocialMedia {
         display: inline;
-        margin-left: 15px;
+        margin-top: 20px;
+        margin-left: 10px;
         align-self: center;
     }
     
