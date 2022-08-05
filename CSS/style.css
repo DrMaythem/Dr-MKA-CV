@@ -199,7 +199,7 @@ li{
         gap: 0px;
     }
     
-    div.details>:nth-child(1) {
+    .details .Card:nth-child(2) {
         margin-top: 0px;
         padding-top: 0px;
         color: red;
